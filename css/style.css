@@ -7,3 +7,31 @@
 body{
     padding: 1rem;
 }
+
+header{
+    background-color: red;
+    height: 100px;
+}
+nav{
+    height: 30px;
+}
+
+.container{
+    width: 80%;
+    max-width: 1170px;
+    margin: auto;
+    background-color: blue;
+}
+
+.logo .menù{
+    width: 25%;
+    background-color: aquamarine;
+    height: 30px;
+}
+
+.info{
+    width: 48%;
+    background-color: aquamarine;
+    height: 30%;
+
+}
