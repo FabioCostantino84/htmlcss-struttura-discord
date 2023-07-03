@@ -33,13 +33,6 @@ header {
     margin: 1rem 0;
 }
 
-.first_container {
-    width: 40%;
-    height: 50%;
-    background-color: blueviolet;
-    margin: auto;
-}
-
 .first_section {
     background-color: aqua;
     padding: 1rem;
@@ -49,7 +42,15 @@ header {
     align-items: center;
 }
 
-.second_container {
+.first_container {
+    width: 40%;
+    height: 50%;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+
+.container_2-3-4 {
     width: 60%;
     height: 600px;
     padding: 2rem 0;
@@ -80,6 +81,20 @@ header {
 .cards {
     background-color: rgb(121, 210, 245);
     height: 100%;
+}
+
+.fifth_section {
+    display: flex;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+}
+
+.fifth_container {
+    width: 60%;
+    height: 100%;
+    background-color: blueviolet;
+    margin: auto;
 }
 
 
