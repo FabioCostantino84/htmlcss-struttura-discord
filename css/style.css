@@ -50,7 +50,8 @@ header {
 }
 
 
-.container_2-3-4, .foot {
+.container_2-3-4,
+.foot {
     width: 60%;
     height: 600px;
     padding: 2rem 0;
@@ -97,17 +98,16 @@ header {
     margin: auto;
 }
 
-.row_endcol{
+.row_endcol {
     height: 70px;
-    justify-content: space-between;
-    
-
 }
-.end_foot{
-    width: 25%;
+
+.end_foot {
+    width: 100px;
     height: 20px;
     margin: auto;
     background-color: coral;
+    justify-content: space-between;
 }
 
 
