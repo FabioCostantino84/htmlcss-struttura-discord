@@ -98,7 +98,8 @@ header {
     margin: auto;
 }
 
-.row_endcol {
+.rowend_col {
+    justify-content: space-between;
     height: 70px;
 }
 
@@ -107,7 +108,6 @@ header {
     height: 20px;
     margin: auto;
     background-color: coral;
-    justify-content: space-between;
 }
 
 
